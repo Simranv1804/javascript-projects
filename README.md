@@ -4,25 +4,25 @@ A collection of 17 beginner-to-intermediate projects built with **HTML, CSS and 
 
 ## Projects
 
-| # | Project | Description |
-|---|---------|-------------|
-| 1 | [Astrology App](./AstrologyApp) | Shows zodiac details based on user input |
-| 2 | [Background Color Changer](./BackgroundColorChanger) | Changes the page background with a click |
-| 3 | [Calculator](./Calculator) | Performs basic arithmetic operations |
-| 4 | [Countdown Timer](./CoundownTimer) | Counts down to a set time |
-| 5 | [Counter App](./CounterApp) | Increment and decrement counter |
-| 6 | [Cricket Quiz](./CricketQuizProject) | Multiple-choice quiz on cricket |
-| 7 | [Display Time](./DisplayTimeProject) | Shows the current time in real time |
-| 8 | [GitHub Profile Display](./GithubProfileDisplayAPI) | Fetches and shows a GitHub profile using the GitHub API |
-| 9 | [Income Tax Calculator](./IncomeTaxCalculator) | Calculates tax based on income |
-| 10 | [Love Calculator](./LoveCalculator) | Calculates a compatibility score for two names |
-| 11 | [Password Strength Checker](./PasswordStrengthChecker) | Evaluates how strong a password is |
-| 12 | [Random Quote Generator](./Random%20Quote%20Generator) | Displays a random quote on each click |
-| 13 | [Random Joke Generator](./RandomJokeGenerator) | Displays a random joke on each click |
-| 14 | [Stopwatch](./StopWatch) | Start, stop and reset stopwatch |
-| 15 | [Tic Tac Toe](./TicTacToeGame) | Two-player Tic Tac Toe game |
-| 16 | [Weather App](./WhetherAPP) | Shows weather details for a searched city |
-| 17 | [Word and Text Calculator](./WordAndTextCalculator) | Counts words and characters in text |
+| # | Project | Description | Live Demo |
+|---|---------|-------------|-----------|
+| 1 | [Astrology App](./AstrologyApp) | Shows zodiac details based on user input | [Live](https://simranv1804.github.io/javascript-projects/AstrologyApp/) |
+| 2 | [Background Color Changer](./BackgroundColorChanger) | Changes the page background with a click | [Live](https://simranv1804.github.io/javascript-projects/BackgroundColorChanger/) |
+| 3 | [Calculator](./Calculator) | Performs basic arithmetic operations | [Live](https://simranv1804.github.io/javascript-projects/Calculator/) |
+| 4 | [Countdown Timer](./CoundownTimer) | Counts down to a set time | [Live](https://simranv1804.github.io/javascript-projects/CoundownTimer/) |
+| 5 | [Counter App](./CounterApp) | Increment and decrement counter | [Live](https://simranv1804.github.io/javascript-projects/CounterApp/) |
+| 6 | [Cricket Quiz](./CricketQuizProject) | Multiple-choice quiz on cricket | [Live](https://simranv1804.github.io/javascript-projects/CricketQuizProject/) |
+| 7 | [Display Time](./DisplayTimeProject) | Shows the current time in real time | [Live](https://simranv1804.github.io/javascript-projects/DisplayTimeProject/) |
+| 8 | [GitHub Profile Display](./GithubProfileDisplayAPI) | Fetches and shows a GitHub profile using the GitHub API | [Live](https://simranv1804.github.io/javascript-projects/GithubProfileDisplayAPI/) |
+| 9 | [Income Tax Calculator](./IncomeTaxCalculator) | Calculates tax based on income | [Live](https://simranv1804.github.io/javascript-projects/IncomeTaxCalculator/) |
+| 10 | [Love Calculator](./LoveCalculator) | Calculates a compatibility score for two names | [Live](https://simranv1804.github.io/javascript-projects/LoveCalculator/) |
+| 11 | [Password Strength Checker](./PasswordStrengthChecker) | Evaluates how strong a password is | [Live](https://simranv1804.github.io/javascript-projects/PasswordStrengthChecker/) |
+| 12 | [Random Quote Generator](./Random%20Quote%20Generator) | Displays a random quote on each click | [Live](https://simranv1804.github.io/javascript-projects/Random%20Quote%20Generator/) |
+| 13 | [Random Joke Generator](./RandomJokeGenerator) | Displays a random joke on each click | [Live](https://simranv1804.github.io/javascript-projects/RandomJokeGenerator/practise.html) |
+| 14 | [Stopwatch](./StopWatch) | Start, stop and reset stopwatch | [Live](https://simranv1804.github.io/javascript-projects/StopWatch/) |
+| 15 | [Tic Tac Toe](./TicTacToeGame) | Two-player Tic Tac Toe game | [Live](https://simranv1804.github.io/javascript-projects/TicTacToeGame/) |
+| 16 | [Weather App](./WhetherAPP) | Shows weather details for a searched city | [Live](https://simranv1804.github.io/javascript-projects/WhetherAPP/) |
+| 17 | [Word and Text Calculator](./WordAndTextCalculator) | Counts words and characters in text | [Live](https://simranv1804.github.io/javascript-projects/WordAndTextCalculator/) |
 
 ## Tech Stack
 
